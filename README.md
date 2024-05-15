@@ -33,7 +33,7 @@ course = models.CharField(max_length=20)
 
 #### Credenciais de acesso (Basic Authentication):
 ```sh
-Login: Gabriella
+Login: gabriella
 Senha: 123
 ``` 
 #### Testes da funcionalidade:
